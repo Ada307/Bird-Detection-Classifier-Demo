@@ -1,0 +1,4 @@
+train: D:/deep learning/demo_dataset/images
+val: D:/deep learning/demo_dataset/images
+names:
+  0: bird
